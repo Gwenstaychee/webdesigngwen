@@ -1,0 +1,23 @@
+header {
+    background-color: #333; 
+    padding: 20px;
+}
+
+.header-content {
+    overflow: auto; 
+}
+
+.float-left {
+    float: left; 
+    margin-right: 20px; 
+}
+
+img {
+    width: auto; 
+    height: 320px; 
+}
+
+h1 {
+    color: #fff; 
+    font-size: 24px;
+}
